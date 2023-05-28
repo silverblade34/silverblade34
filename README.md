@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Marcos Pacheco Tacay
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un desarrollador Full Stack Junior apasionado por la creación de aplicaciones web. Me especializo en frontend, backend y DevOps, utilizando tecnologías modernas para ofrecer soluciones robustas y eficientes.
 
@@ -27,9 +27,7 @@ Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilida
 
 Puedes encontrarme en las siguientes redes sociales y plataformas:
 
-- LinkedIn: [Tu Perfil de LinkedIn](enlace-a-tu-linkedin)
-- Twitter: [@TuUsuarioDeTwitter](enlace-a-tu-twitter)
-- Sitio Web: [TuSitioWeb.com](enlace-a-tu-sitio-web)
+- LinkedIn: https://www.linkedin.com/in/michell-pacheco-tacay-674206249/
 
-¡No dudes en contactarme! Estoy emocionado/a de conectar con otros desarrolladores y colaborar en proyectos emocionantes.
+¡No dudes en contactarme! Estoy emocionado de conectar con otros desarrolladores y colaborar en proyectos emocionantes.
 
