@@ -9,14 +9,6 @@
 - DevOps: Despliegue de proyectos con Docker y herramientas de orquestación de contenedores.
 - Bases de datos: Experiencia en SQL (MySQL, PostgreSQL) y NoSQL (MongoDB).
 
-## 🚀 Proyectos Destacados
-
-Aquí tienes algunos proyectos en los que he trabajado recientemente:
-
-1. [Proyecto 1](enlace-al-proyecto-1): Descripción breve del proyecto y tecnologías utilizadas.
-2. [Proyecto 2](enlace-al-proyecto-2): Descripción breve del proyecto y tecnologías utilizadas.
-3. [Proyecto 3](enlace-al-proyecto-3): Descripción breve del proyecto y tecnologías utilizadas.
-
 ¡Echa un vistazo a mi [portafolio completo](enlace-al-portafolio) para más proyectos!
 
 ## 🌱 Constante Aprendizaje
