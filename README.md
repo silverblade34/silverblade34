@@ -9,7 +9,7 @@
 - DevOps: Despliegue de proyectos con Docker y herramientas de orquestación de contenedores.
 - Bases de datos: Experiencia en SQL (MySQL, PostgreSQL) y NoSQL (MongoDB).
 
-¡Echa un vistazo a mi [https://silverblade34.github.io/portafolio_v2/](enlace-al-portafolio) para más proyectos!
+¡Echa un vistazo a mi portafolio web https://silverblade34.github.io/portafolio_v2/ para más proyectos!
 
 ## 🌱 Constante Aprendizaje
 
