@@ -22,7 +22,7 @@ Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilida
 
 Puedes encontrarme en las siguientes redes sociales y plataformas:
 
-- LinkedIn: https://www.linkedin.com/in/michell-pacheco-tacay-674206249/
+- LinkedIn: [https://www.linkedin.com/in/michell-pacheco-tacay-674206249/](https://www.linkedin.com/in/marcos-pacheco-tacay-674206249/)
 
 ¡No dudes en contactarme! Estoy emocionado de conectar con otros desarrolladores y colaborar en proyectos emocionantes.
 
