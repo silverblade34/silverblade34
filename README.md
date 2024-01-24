@@ -4,7 +4,8 @@
 
 ## 💻 Experiencia y Conocimientos
 
-- Desarrollo en el lado del cliente (Frontend): Vue.js, HTML5, CSS3, JavaScript.
+- Desarrollo en el lado del cliente (Frontend): Vue.js, HTML5, CSS3 y JavaScript.
+- Desarrollo móvil: Dart, Flutter y GetX.
 - Desarrollo en el lado del servidor (Backend): Python (con frameworks como Django y Flask), Nest Js y Node.js (con Express).
 - DevOps: Despliegue de proyectos con Docker y herramientas de orquestación de contenedores.
 - Bases de datos: Experiencia en SQL (MySQL, PostgreSQL) y NoSQL (MongoDB).
