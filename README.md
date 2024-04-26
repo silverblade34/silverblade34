@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Marcos Pacheco Tacay
 
-¡Bienvenido/a a mi perfil de GitHub! Soy Ingeniero de software y desarrollador Full Stack apasionado por la creación de aplicaciones. Me especializo en frontend, backend y DevOps, utilizando tecnologías modernas para ofrecer soluciones robustas y eficientes.
+¡Bienvenido/a a mi perfil de GitHub! Soy Ingeniero de software y desarrollador Full Stack apasionado por la creación de aplicaciones. Me especializo en frontend, backend y desarollo movil, utilizando tecnologías modernas para ofrecer soluciones robustas y eficientes.
 
 ## 💻 Experiencia y Conocimientos
 
