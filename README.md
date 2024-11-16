@@ -1,7 +1,3 @@
-Aquí tienes una versión mejorada de tu README.md:
-
----
-
 # ¡Hola! 👋 Soy Marcos Pacheco Tacay
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un **Desarrollador Backend** y **Móvil** con una gran pasión por construir soluciones escalables y eficientes. Me especializo en **Backend**, **AWS**, y **Desarrollo Móvil**, siempre buscando utilizar tecnologías modernas para crear aplicaciones robustas y de alto rendimiento.
