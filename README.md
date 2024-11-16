@@ -1,29 +1,43 @@
+Aquí tienes una versión mejorada de tu README.md:
+
+---
+
 # ¡Hola! 👋 Soy Marcos Pacheco Tacay
 
-¡Bienvenido/a a mi perfil de GitHub! Soy Ingeniero de software y desarrollador Full Stack apasionado por la creación de aplicaciones. Me especializo en frontend, backend y desarollo movil, utilizando tecnologías modernas para ofrecer soluciones robustas y eficientes.
+¡Bienvenido/a a mi perfil de GitHub! Soy un **Desarrollador Backend** y **Móvil** con una gran pasión por construir soluciones escalables y eficientes. Me especializo en **Backend**, **AWS**, y **Desarrollo Móvil**, siempre buscando utilizar tecnologías modernas para crear aplicaciones robustas y de alto rendimiento.
 
 ## 💻 Experiencia y Conocimientos
 
-- Desarrollo en el lado del cliente (Frontend): Vue.js, HTML5, CSS3 y JavaScript.
-- Desarrollo móvil: Dart, Flutter y GetX.
-- Desarrollo en el lado del servidor (Backend): Python (con frameworks como Django y Flask), Nest Js y Node.js (con Express).
-- DevOps: Despliegue de proyectos con Docker y herramientas de orquestación de contenedores.
-- Bases de datos: Experiencia en SQL (MySQL, PostgreSQL) y NoSQL (MongoDB).
+- **Desarrollo Backend**:  
+  - **Node.js** con **NestJS** y **Express**  
+  - **AWS** (Lambda, API Gateway, EC2)  
+  - **Bases de Datos SQL**: MySQL, PostgreSQL  
+  - **Bases de Datos NoSQL**: MongoDB, DynamoDB  
+  - **Pruebas Unitarias** y **Automatización**  
 
-¡Echa un vistazo a mi portafolio web [https://silverblade34.github.io/portfolio_website/](https://silverblade34.github.io/portfolio_website/) para más proyectos!
+- **Desarrollo Móvil**:  
+  - **Flutter** con **Dart**  
+  - **GetX** para la gestión de estado  
+
+- **DevOps**:  
+  - Despliegue y gestión de proyectos con **Docker**  
+  - Implementación de pipelines con **Jenkins**  
+  - Orquestación de contenedores
+
+¡Echa un vistazo a mi portafolio web [aquí](https://maquiadev.vercel.app) para ver algunos de mis proyectos más recientes!
 
 ## 🌱 Constante Aprendizaje
 
-Siempre estoy buscando nuevas oportunidades para aprender y mejorar mis habilidades. Estoy abierto/a a colaboraciones y proyectos emocionantes. No dudes en contactarme si tienes alguna propuesta interesante.
+Me encanta aprender nuevas tecnologías y desafíos. Siempre estoy buscando mejorar mis habilidades y colaborar en proyectos innovadores. Si tienes alguna propuesta interesante o un proyecto en el que te gustaría que participe, no dudes en contactarme.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+## 💻 Tech Stack
 
-## 📫 ¡Hablemos!
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-FF9800?style=for-the-badge&logo=jenkins&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+## 📫 ¡Conectemos!
 
 Puedes encontrarme en las siguientes redes sociales y plataformas:
 
-- LinkedIn: [https://www.linkedin.com/in/michell-pacheco-tacay-674206249/](https://www.linkedin.com/in/marcos-pacheco-tacay-674206249/)
-
-¡No dudes en contactarme! Estoy emocionado de conectar con otros desarrolladores y colaborar en proyectos emocionantes.
-
+- **LinkedIn**: [https://www.linkedin.com/in/marcos-pacheco-tacay-674206249/](https://www.linkedin.com/in/marcos-pacheco-tacay-674206249/)
+  
+¡Estoy emocionado de conectar con otros profesionales, compartir conocimientos y colaborar en proyectos interesantes! No dudes en contactarme. 
