@@ -13,7 +13,6 @@
 
 - **Desarrollo Móvil**:  
   - **Flutter** con **Dart**  
-  - **GetX** para la gestión de estado  
 
 - **DevOps**:  
   - Despliegue y gestión de proyectos con **Docker**  
